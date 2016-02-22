@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Layout/Layout.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/macowner/SignInProject/node_modules/react-native/React/Base/RCTUtils.h
